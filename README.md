@@ -61,9 +61,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/rocket-ap/rocket-ssh/master/ss
 bash <(curl -Ls https://raw.githubusercontent.com/rocket-ap/rocket-ssh/master/block-ir-ip.sh --ipv4)
 ```
 
-# کانال تلگرام
 
-https://t.me/rocketpanel
 
 # محیط نرم افزار
 
